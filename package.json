@@ -1,7 +1,7 @@
 {
-  "name": "change default console.log",
+  "name": "prettier_log",
   "version": "1.0.0",
-  "description": "prettier log",
+  "description": "prettier_log",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
