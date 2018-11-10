@@ -1,0 +1,15 @@
+{
+  "name": "change default console.log",
+  "version": "1.0.0",
+  "description": "prettier log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stringify",
+    "log"
+  ],
+  "author": "Tran Quan",
+  "license": "MIT"
+}
